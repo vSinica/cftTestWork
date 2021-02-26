@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="cftTestWork:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cftTestWork_jar</output-path>
+    <root id="archive" name="cftTestWork.jar">
+      <element id="module-output" name="cftTestWork" />
+    </root>
+  </artifact>
+</component>
