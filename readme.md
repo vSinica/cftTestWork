@@ -4,5 +4,5 @@
 положить входные и выходные файлы в корень проекта, также нужно
 написать аргументы командной строки в run configuration.
 например -d -s out.txt in1.txt in2.txt in3.txt
-![Image alt](https://github.com/vSinica/cftTestWork/blob/master/image/Screenshot_5.png)
+![Инструкция по запуску](https://github.com/vSinica/cftTestWork/blob/master/image/Screenshot_5.png)
 В проект включены папки с тестовыми данными - папки с названиями на in*.
